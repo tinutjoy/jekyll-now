@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD student at Deakin University, Australia. I am broadly interested in machine learning and its applications. 
 
 ### More Information
 
