@@ -6,9 +6,7 @@ permalink: /about/
 
 I am a PhD student at Deakin University, Australia. I am broadly interested in machine learning and its applications. 
 
-### Why here
 
-A place to write about things that interest me!
 
 ### Contact me
 
