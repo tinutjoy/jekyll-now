@@ -8,7 +8,7 @@ I am a PhD student at Deakin University, Australia. I am broadly interested in m
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place to write about things that interest me!
 
 ### Contact me
 
